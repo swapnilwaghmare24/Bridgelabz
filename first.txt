@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+welcome - changes in local 
+=======
+welcome - changes from remote
+>>>>>>> ad6a1b8b490b8774dc3bc8d989b14edcd004d48d
